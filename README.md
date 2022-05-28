@@ -6,6 +6,6 @@ Criação do Projeto em Java que contém:
 - Retorno do Cálculo de empréstimo de acordo com o valor e parcelas informados;
          
 
-## Bootcamp GFT - DIO - Dominando IDEs JAVA
+## Bootcamp GFT - DIO - ENTENDENDO MÉTODOS JAVA
 
          [IDE utilizada - Intellij]
